@@ -7,3 +7,6 @@ Write a method called BinarySearch which takes in 2 parameters: a sorted array a
 
 ## Code
 ![code](./binarysearch.PNG)
+
+## Approach and efficiency
+The appraoch to solving this challenge is by looping over the sorted array and checking if our value is more or less than the middle element on our interval until the middle value equals our value that we want to check and for that the time efficiency will be O(n) since we are using just a loop and O(1) for space efficiency
