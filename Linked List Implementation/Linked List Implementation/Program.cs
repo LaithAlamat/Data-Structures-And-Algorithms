@@ -1,8 +1,8 @@
-﻿using System;
+using System;
 
 namespace Linked_List_Implementation
 {
-    class Program
+    public class Program
     {
         public class Node
         {
@@ -39,44 +39,46 @@ namespace Linked_List_Implementation
                 }
                     return false;
             }
-            public void printList()
+            public string printList()
             {
+                String str = "";
                 if (this.head == null)
                 {
-                    return;
+                    Console.WriteLine("Please enter a valid head");
                 }
                 Node current = this.head;
                 while (current != null)
                 {
-                    Console.Write(current.value + "-->" );
+                    str += current.value + "-->";
                     current = current.next;
                 }
-                Console.WriteLine();
+                Console.WriteLine(str);
+                return str;
             }
 
         }
 
         public static void Main(string[] args)
         {
-            //LinkedList NewList = new LinkedList();
-            //NewList.Insert(5);
-            //NewList.Insert(10);
-            //NewList.Insert(15);
-            //NewList.Insert(20);
-            //NewList.Insert(25);
+            LinkedList NewList = new LinkedList();
+            NewList.Insert(5);
+            NewList.Insert(10);
+            NewList.Insert(15);
+            NewList.Insert(20);
+            NewList.Insert(25);
 
-            //if (NewList.Search(NewList.head, 2))
-            //{
-            //    Console.WriteLine("Found!");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Not Found!");
-            //}
+            if (NewList.Search(NewList.head, 2))
+            {
+                Console.WriteLine("Found!");
+            }
+            else
+            {
+                Console.WriteLine("Not Found!");
+            }
 
 
 
-            //NewList.printList();
+            NewList.printList();
         }
     }
 }
