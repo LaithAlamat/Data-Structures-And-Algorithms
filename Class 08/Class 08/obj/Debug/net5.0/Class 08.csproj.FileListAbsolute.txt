@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\Class 08.exe
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\Class 08.deps.json
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\Class 08.runtimeconfig.json
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\Class 08.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\Class 08.dll
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\ref\Class 08.dll
+C:\Users\laith alamat\source\repos\Class 08\Class 08\bin\Debug\net5.0\Class 08.pdb
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.dll
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\ref\Class 08.dll
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.pdb
+C:\Users\laith alamat\source\repos\Class 08\Class 08\obj\Debug\net5.0\Class 08.genruntimeconfig.cache
