@@ -71,7 +71,7 @@ namespace Class_08
                     return "";
                 }
             }
-            public void LinkedListZip(Node head, Node head2)
+            public Node LinkedListZip(Node head, Node head2)
             {
                 Node list1 = head;
                 Node list2 = head2;
@@ -118,7 +118,7 @@ namespace Class_08
                     }
                     count++;
                 }
-
+                return head;
             }
         }
      }
