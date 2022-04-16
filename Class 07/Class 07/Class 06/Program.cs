@@ -16,7 +16,7 @@ namespace Class_06
             NewList.AddBefore(5, 7);
             NewList.AddAfter(10, 7);
             NewList.printList();
-            NewList.SearchIndex(NewList.head,3 );
+            NewList.kthFromEnd(NewList.head,3 );
 
         }
 
@@ -155,7 +155,7 @@ namespace Class_06
                     }
                 }
             }
-            public object SearchIndex(Node head, int k)
+            public object kthFromEnd(Node head, int k)
             {
 
                 if (k < 0)
