@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\Stack and a Queue.exe
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\Stack and a Queue.deps.json
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\Stack and a Queue.runtimeconfig.json
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\Stack and a Queue.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\Stack and a Queue.dll
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\ref\Stack and a Queue.dll
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\bin\Debug\net5.0\Stack and a Queue.pdb
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.dll
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\ref\Stack and a Queue.dll
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.pdb
+C:\Users\laith alamat\source\repos\Stack and a Queue\Stack and a Queue\obj\Debug\net5.0\Stack and a Queue.genruntimeconfig.cache
