@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.exe
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.deps.json
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.runtimeconfig.json
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.dll
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\ref\BalancedBrackets.dll
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.pdb
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.dll
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\ref\BalancedBrackets.dll
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.pdb
+C:\Users\laith alamat\source\repos\BalancedBrackets\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.genruntimeconfig.cache
