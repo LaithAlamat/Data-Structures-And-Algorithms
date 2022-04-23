@@ -15,21 +15,23 @@ namespace Class12
         Queue dog = new Queue();
 
 
-        public void EnqueueAnimal(Animal animal)
+        public string EnqueueAnimal(Animal animal)
         {
             switch (animal.type)
             {
                 case "cat":
                     Console.WriteLine("A Cat was sheltered");
                     cat.enqueue(animal);
-                    break;
+                    return "cat";
                 case "dog":
                     Console.WriteLine("A Dog was sheltered");
                     dog.enqueue(animal);
-                    break;
+                    return "dog";
+
                 default: 
                     Console.WriteLine("this animal can't be sheltered here.");
-                    break;
+                    return "";
+
             }
         }
 

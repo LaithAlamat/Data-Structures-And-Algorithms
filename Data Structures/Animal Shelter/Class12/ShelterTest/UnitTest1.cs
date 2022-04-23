@@ -29,5 +29,35 @@ namespace ShelterTest
             Assert.Equal("cat", test.DequeueAnimal("cat"));
 
         }
+
+        [Fact]
+        public void TestNotCatOrDog()
+        {
+            AnimalShelter test = new AnimalShelter();
+            Animal cat = new Animal("cat");
+            Animal duck = new Animal("duck");
+
+
+            test.EnqueueAnimal(cat);
+            test.EnqueueAnimal(duck);
+            test.DequeueAnimal("cat");
+
+            Assert.Equal("", test.EnqueueAnimal(duck));
+
+        }
+
+        [Fact]
+        public void DequeueNotCatOrDog()
+        {
+            AnimalShelter test = new AnimalShelter();
+            Animal dog = new Animal("dog");
+            Animal cat = new Animal("cat");
+
+            test.EnqueueAnimal(cat);
+            test.DequeueAnimal("duck");
+
+            Assert.Equal("", test.DequeueAnimal("duck"));
+
+        }
     }
 }
