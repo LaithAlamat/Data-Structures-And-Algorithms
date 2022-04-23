@@ -5,4 +5,4 @@ The shelter operates using a first-in, first-out approach.
 
 ## WhiteBoard:
 
-![whiteboard](./animalshelter.PNG)
+![whiteboard](./shelter.PNG)
