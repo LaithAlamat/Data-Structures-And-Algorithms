@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\Breadth First Traversal.exe
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\Breadth First Traversal.deps.json
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\Breadth First Traversal.runtimeconfig.json
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\Breadth First Traversal.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\Breadth First Traversal.dll
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\ref\Breadth First Traversal.dll
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\bin\Debug\net5.0\Breadth First Traversal.pdb
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.dll
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\ref\Breadth First Traversal.dll
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.pdb
+C:\Users\laith alamat\source\repos\Breadth First Traversal\Breadth First Traversal\obj\Debug\net5.0\Breadth First Traversal.genruntimeconfig.cache
