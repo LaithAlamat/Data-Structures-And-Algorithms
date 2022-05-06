@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\FizzBuzzKTree.exe
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\FizzBuzzKTree.deps.json
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\FizzBuzzKTree.runtimeconfig.json
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\FizzBuzzKTree.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\FizzBuzzKTree.dll
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\ref\FizzBuzzKTree.dll
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\bin\Debug\net5.0\FizzBuzzKTree.pdb
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.dll
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\ref\FizzBuzzKTree.dll
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.pdb
+C:\Users\laith alamat\source\repos\FizzBuzzKTree\FizzBuzzKTree\obj\Debug\net5.0\FizzBuzzKTree.genruntimeconfig.cache

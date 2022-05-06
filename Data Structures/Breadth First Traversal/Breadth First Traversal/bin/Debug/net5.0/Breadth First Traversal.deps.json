@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Breadth First Traversal/1.0.0": {
+        "runtime": {
+          "Breadth First Traversal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Breadth First Traversal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
