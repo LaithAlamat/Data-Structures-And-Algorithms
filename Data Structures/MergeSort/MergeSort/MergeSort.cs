@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MergeSort
 {
-    public class MergeSort
+    public class MergeSorting
     {
-        public void MergesortFunction(int[] arr)
+        public int[] MergesortFunction(int[] arr)
         {
             int n = arr.Length;
             if (n > 1)
@@ -20,6 +20,7 @@ namespace MergeSort
                 MergesortFunction(right);
                 Merge(left, right, arr);
             }
+            return arr;
         }
 
         public void Merge(int[] left, int[] right, int[] arr)

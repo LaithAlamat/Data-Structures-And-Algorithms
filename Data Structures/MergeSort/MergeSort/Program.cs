@@ -9,7 +9,7 @@ namespace MergeSort
             int[] arr = { 12, 11, 13, 5, 6, 7 };
             Console.WriteLine("Given Array");
             printArray(arr);
-            MergeSort test = new MergeSort();
+            MergeSorting test = new MergeSorting();
             test.MergesortFunction(arr);
             Console.WriteLine("Sorted array");
             printArray(arr);
