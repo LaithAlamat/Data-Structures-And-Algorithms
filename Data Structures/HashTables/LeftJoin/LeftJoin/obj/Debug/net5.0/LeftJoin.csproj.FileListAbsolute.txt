@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\LeftJoin.exe
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\LeftJoin.deps.json
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\LeftJoin.runtimeconfig.json
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\LeftJoin.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\LeftJoin.dll
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\ref\LeftJoin.dll
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\bin\Debug\net5.0\LeftJoin.pdb
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.dll
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\ref\LeftJoin.dll
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.pdb
+C:\Users\laith alamat\source\repos\LeftJoin\LeftJoin\obj\Debug\net5.0\LeftJoin.genruntimeconfig.cache
