@@ -1,0 +1,16 @@
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\LargestMultiplication.exe
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\LargestMultiplication.deps.json
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\LargestMultiplication.runtimeconfig.json
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\LargestMultiplication.runtimeconfig.dev.json
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\LargestMultiplication.dll
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\ref\LargestMultiplication.dll
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\bin\Debug\net5.0\LargestMultiplication.pdb
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.csproj.AssemblyReference.cache
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.AssemblyInfoInputs.cache
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.AssemblyInfo.cs
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.dll
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\ref\LargestMultiplication.dll
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.pdb
+C:\Users\laith alamat\source\repos\LargestMultiplication\LargestMultiplication\obj\Debug\net5.0\LargestMultiplication.genruntimeconfig.cache
